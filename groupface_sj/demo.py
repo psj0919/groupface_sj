@@ -1,7 +1,7 @@
 import torch
 import os
 from tqdm import tqdm
-
+x = True
 VIEW = True
 VIEW_TITLE = 'similarity'
 WAITKEY_TIME = 0
